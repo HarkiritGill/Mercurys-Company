@@ -1,0 +1,7 @@
+{
+    "name": "Mercury's_Company",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Funny memes put into a mod",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
