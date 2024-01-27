@@ -26,8 +26,7 @@ Longer and faster Sprint
 -Air Horn changed with MLG Air Horn
 -Clown Horn replaced with Mambo No.5 starting motif notes
 -Ice Cream truck noises replaced by Blade - Vampire Dance
--Turret rotation speed increased
--Turret Rotation time span changed
+
 
 
 |[Songs Used]
