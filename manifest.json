@@ -1,7 +1,7 @@
 {
     "name": "Mercurys_Company",
-    "version_number": "1.0.1",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/HarkiritGill/Mercurys-Company",
     "description": "Funny memes put into a mod",
-    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100" + "Clementinise-CustomSounds-2.3.2"]
 }

@@ -12,16 +12,28 @@
 Mercurys company is a mod developed by Harkirit Gill and are full of things I just thought were funny, little inside jokes and just things I think are cool.
 I will update this as I learn more about creating my own mods and think of more that I want to do, right now its just figuring out how to do what I want to do.
 
-So far what I have started with is; 
-- The movement speed being increased
-- Faster and longer Sprint
-- increased stamina recovery
-- Chief Keef as the ship intro
+This is what the game has so far. As i learn more programming with C# and think of other ideas they will be added to the list below:
+
+Longer and faster Sprint
+-Faster Movement speed
+-Longer stamina recovery
+-Chief Keef Love Sosa speech as Intro Speech
+-Ambient Music from Metal Gear Solid
+-Mask Attack is Yes - Roundabouts
+-Nutcracker sound effects replaced by Heavy from TF2
+-Turret Sounds replaced by Sentry from Tf2
+-Zero Days replaced with Death Grips - Beware
+-Air Horn changed with MLG Air Horn
+-Clown Horn replaced with Mambo No.5 starting motif notes
+-Ice Cream truck noises replaced by Blade - Vampire Dance
+-Turret rotation speed increased
+-Turret Rotation time span changed
 
 
 |[Songs Used]
 |---|---|---|---|---|---|---|
 Chief Keef - Love Sosa
+Death Grips - Beware
 
 
 This is free and unencumbered software released into the public domain.
