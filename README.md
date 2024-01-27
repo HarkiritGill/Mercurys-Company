@@ -4,6 +4,8 @@
 
 [![Itch.io](https://mercury-productions.itch.io/)
 
+[![Feedback Link:](https://forms.gle/pr4Ehtfk5KhDjGAAA)
+
 |[What is a Mercury's Company?]
 |---|---|---|---|---|---|---|
 
