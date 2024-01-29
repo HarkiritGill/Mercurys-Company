@@ -1,10 +1,10 @@
 # Mercury's Company
 
-[![Portfolio Link](https://harkiritgill.wixsite.com/mercurygames)
+[![Portfolio Link]https://harkiritgill.wixsite.com/mercurygames
 
-[![Itch.io](https://mercury-productions.itch.io/)
+[![Itch.io]https://mercury-productions.itch.io/
 
-[![Feedback Link:](https://forms.gle/pr4Ehtfk5KhDjGAAA)
+[![Feedback Link:]https://forms.gle/pr4Ehtfk5KhDjGAAA
 
 |[What is a Mercury's Company?]
 |---|---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 ##Mercury's Company
 
 Mercurys company is a mod developed by Harkirit Gill and are full of things I just thought were funny, little inside jokes and just things I think are cool.
-I will update this as I learn more about creating my own mods and think of more that I want to do, right now its just figuring out how to do what I want to do.
+I will update this as I learn more about creating my own mods and think of more that I want to do, right now its just figuring out how to do what I want to do. So far quite a few things have been added into the mods in terms of audio clip changes. I have integrated some into my own code however, some will require the custom sounds mod. When installed, load up the game and quit, check the files and there should be a new custom sounds file. go into the other sounds file, go into that and copy and paste the audio clips from that into the new file and reload the game. Mod should have added the remaining sounds i still need to figure out to integrate. 
 
 This is what the game has so far. As i learn more programming with C# and think of other ideas they will be added to the list below:
 
