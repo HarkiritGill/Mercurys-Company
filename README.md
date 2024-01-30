@@ -31,13 +31,12 @@ Longer and faster Sprint
 -Dress Girl replaced with Metal Gear Solid Psycho Mantis SFX
 -Thumper replaced with L4D2 tank sound effects
 -Vents replaced with Among Us Sound effects
--TV replaced with Mw2 (2009) and Black ops 2 Mutliplayer Lobby Music
 -Mask Laughs and attack replaced by Dio laugh
 -Snare Flea replaced with L4D2 Jockey sound effects
 -Flashbang replaced with CSGO sound effect
 -Boombox songs replaced with The Chase, Match of the day, Pimp my Ride and Wallace and Gromit themes
 -Mine Trigger replaced with "yep thats me..."
--Record Player to have GTA 5 songs and Metal Gear Rising Boss themes
+
 
 
 
