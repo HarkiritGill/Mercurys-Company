@@ -16,7 +16,7 @@ I will update this as I learn more about creating my own mods and think of more 
 
 This is what the game has so far. As i learn more programming with C# and think of other ideas they will be added to the list below:
 
-Longer and faster Sprint
+-Longer and faster Sprint
 -Faster Movement speed
 -Longer stamina recovery
 -Chief Keef Love Sosa speech as Intro Speech
@@ -36,6 +36,7 @@ Longer and faster Sprint
 -Flashbang replaced with CSGO sound effect
 -Boombox songs replaced with The Chase, Match of the day, Pimp my Ride and Wallace and Gromit themes
 -Mine Trigger replaced with "yep thats me..."
+-Posters and Paintings replaced by friends and Literally Me characters
 
 
 
