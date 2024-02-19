@@ -36,7 +36,11 @@ This is what the game has so far. As i learn more programming with C# and think 
 -Flashbang replaced with CSGO sound effect
 -Boombox songs replaced with The Chase, Match of the day, Pimp my Ride and Wallace and Gromit themes
 -Mine Trigger replaced with "yep thats me..."
--Posters and Paintings replaced by friends and Literally Me characters
+-Paintings replaced with pictures of friends
+-posters replaced with Top Gear trio, Some Ordinary Gamer, Driver from Drive, Lady Diana, Shinji from Evangelion, Wayne Gretzky, Ryan Gosling in BladeRunner, Mads Mikkelson in Casino Royale, Batman from Batman 2022 and Anton from No Country for Old Men
+- Danny G as Hoarding Bug
+- TV channels as Mw2 Multiplayer Menu and San Andreas theme
+- Record Player replaced With Max Verstappen Songs
 
 
 
