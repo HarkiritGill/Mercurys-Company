@@ -16,28 +16,28 @@ I will update this as I learn more about creating my own mods and think of more 
 
 This is what the game has so far. As i learn more programming with C# and think of other ideas they will be added to the list below:
 
--Longer and faster Sprint
--Faster Movement speed
--Longer stamina recovery
--Chief Keef Love Sosa speech as Intro Speech
--Ambient Music from Metal Gear Solid
--Mask Attack is Yes - Roundabouts
--Nutcracker sound effects replaced by Heavy from TF2
--Turret Sounds replaced by Sentry from Tf2
--Zero Days replaced with Death Grips - Beware
--Air Horn changed with MLG Air Horn
--Clown Horn replaced with Mambo No.5 starting motif notes
--Ice Cream truck noises replaced by Blade - Vampire Dance
--Dress Girl replaced with Metal Gear Solid Psycho Mantis SFX
--Thumper replaced with L4D2 tank sound effects
--Vents replaced with Among Us Sound effects
--Mask Laughs and attack replaced by Dio laugh
--Snare Flea replaced with L4D2 Jockey sound effects
--Flashbang replaced with CSGO sound effect
--Boombox songs replaced with The Chase, Match of the day, Pimp my Ride and Wallace and Gromit themes
--Mine Trigger replaced with "yep thats me..."
--Paintings replaced with pictures of friends
--posters replaced with Top Gear trio, Some Ordinary Gamer, Driver from Drive, Lady Diana, Shinji from Evangelion, Wayne Gretzky, Ryan Gosling in BladeRunner, Mads Mikkelson in Casino Royale, Batman from Batman 2022 and Anton from No Country for Old Men
+- Longer and faster Sprint
+- Faster Movement speed
+- Longer stamina recovery
+- Chief Keef Love Sosa speech as Intro Speech
+- Ambient Music from Metal Gear Solid
+- Mask Attack is Yes - Roundabouts
+- Nutcracker sound effects replaced by Heavy from TF2
+- Turret Sounds replaced by Sentry from Tf2
+- Zero Days replaced with Death Grips - Beware
+- Air Horn changed with MLG Air Horn
+- Clown Horn replaced with Mambo No.5 starting motif notes
+- Ice Cream truck noises replaced by Blade - Vampire Dance
+- Dress Girl replaced with Metal Gear Solid Psycho Mantis SFX
+- Thumper replaced with L4D2 tank sound effects
+- Vents replaced with Among Us Sound effects
+- Mask Laughs and attack replaced by Dio laugh
+- Snare Flea replaced with L4D2 Jockey sound effects
+- Flashbang replaced with CSGO sound effect
+- Boombox songs replaced with The Chase, Match of the day, Pimp my Ride and Wallace and Gromit themes
+- Mine Trigger replaced with "yep thats me..."
+- Paintings replaced with pictures of friends
+- Posters replaced with Top Gear trio, Some Ordinary Gamer, Driver from Drive, Lady Diana, Shinji from Evangelion, Wayne Gretzky, Ryan Gosling in BladeRunner, Mads Mikkelson in Casino Royale, Batman from Batman 2022 and Anton from No Country for Old Men
 - Danny G as Hoarding Bug
 - TV channels as Mw2 Multiplayer Menu and San Andreas theme
 - Record Player replaced With Max Verstappen Songs
